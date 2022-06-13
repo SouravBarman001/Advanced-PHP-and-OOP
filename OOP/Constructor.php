@@ -23,6 +23,3 @@ $personOne = new Student("hi",65);
 $personOne->Print();
 
 
-
-
-?>
